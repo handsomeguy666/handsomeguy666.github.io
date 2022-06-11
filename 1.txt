@@ -1,0 +1,3 @@
+域名：github.io
+主机记录：alidnscheck
+记录值：43124f4ddcb740ef919164f670eea4ce
